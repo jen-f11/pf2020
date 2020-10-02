@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2276.606 5579.395 94.211 94.211">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #808593;
+      }
+
+      .cls-1 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        stroke-width: 1.3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_37" data-name="グループ化 37" transform="translate(-3137.606 4699.394)">
+    <g id="楕円形_2" data-name="楕円形 2" class="cls-1" transform="translate(861 880)">
+      <circle class="cls-3" cx="47.106" cy="47.106" r="47.106"/>
+      <circle class="cls-4" cx="47.106" cy="47.106" r="46.356"/>
+    </g>
+    <g id="グループ化_36" data-name="グループ化 36" transform="translate(889.955 905.498)">
+      <path id="パス_47" data-name="パス 47" class="cls-2" d="M0,0V44.081" transform="translate(18.151)"/>
+      <path id="パス_46" data-name="パス 46" class="cls-2" d="M0,0,18.151,19.015" transform="translate(0 25.065)"/>
+      <path id="パス_48" data-name="パス 48" class="cls-2" d="M0,0,18.151,19.015" transform="translate(36.734 25.93) rotate(90)"/>
+    </g>
+  </g>
+</svg>
